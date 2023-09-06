@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubredditListener", "SubredditListener\SubredditListener.csproj", "{4EC32B63-2E0B-445A-9DAE-709EB2A14C5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubredditListener.Tests", "SubredditListener.Tests\SubredditListener.Tests.csproj", "{1C4D5E2F-7BCA-47EB-BB64-C2304C1A22C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7C0D5E9F-C91A-4217-896B-E293A52732E3}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EC32B63-2E0B-445A-9DAE-709EB2A14C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC32B63-2E0B-445A-9DAE-709EB2A14C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC32B63-2E0B-445A-9DAE-709EB2A14C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC32B63-2E0B-445A-9DAE-709EB2A14C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4D5E2F-7BCA-47EB-BB64-C2304C1A22C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4D5E2F-7BCA-47EB-BB64-C2304C1A22C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4D5E2F-7BCA-47EB-BB64-C2304C1A22C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4D5E2F-7BCA-47EB-BB64-C2304C1A22C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87236234-6B87-41C7-A901-D5D8AE48D4B6}
+	EndGlobalSection
+EndGlobal
