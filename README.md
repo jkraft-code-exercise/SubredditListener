@@ -6,7 +6,7 @@ In `appsettings.json`, specify values for:
 * `Username` -- Your Reddit username
 * `Password` -- Your Reddit password
 * `ClientId` -- The Client Id from your Reddit app registration
-* `ClientSecret` -- The Client Secret from your Reddit App registration
+* `ClientSecret` -- The Client Secret from your Reddit app registration
 
 A few `Subreddits` are configured as an example.
 
